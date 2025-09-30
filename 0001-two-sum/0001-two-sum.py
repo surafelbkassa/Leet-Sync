@@ -5,29 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        
         num_map={}
         for i,num in enumerate(nums):
-            compliment=target-num
-            if  compliment in num_map:
-                return [num_map[compliment],i]
-            num_map[num]=i
-        return []
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
+            complement = target - nums[i]
+            if complement in num_map:
+                return [num_map[target - nums[i]],i]
+            num_map[num] = i
+       
