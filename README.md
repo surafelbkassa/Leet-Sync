@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/surafelbkassa/Leet-Sync/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0416-partition-equal-subset-sum) |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/surafelbkassa/Leet-Sync/tree/master/0907-koko-eating-bananas) |
 | [1130-last-stone-weight-ii](https://github.com/surafelbkassa/Leet-Sync/tree/master/1130-last-stone-weight-ii) |
 ## Breadth-First Search
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/surafelbkassa/Leet-Sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0242-valid-anagram) |
+| [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/surafelbkassa/Leet-Sync/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/surafelbkassa/Leet-Sync/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
 ## Design
 |  |
 | ------- |
@@ -136,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
