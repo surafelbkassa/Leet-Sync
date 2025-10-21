@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/surafelbkassa/Leet-Sync/tree/master/0322-coin-change) |
 ## Combinatorics
 |  |
@@ -103,14 +104,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0226-invert-binary-tree) |
 ## Union Find
 |  |
 | ------- |
