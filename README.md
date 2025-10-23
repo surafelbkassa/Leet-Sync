@@ -103,18 +103,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0543-diameter-of-binary-tree) |
