@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/surafelbkassa/Leet-Sync/tree/master/0322-coin-change) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0543-diameter-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0543-diameter-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0543-diameter-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
