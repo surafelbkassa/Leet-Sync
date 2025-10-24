@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0332-reconstruct-itinerary](https://github.com/surafelbkassa/Leet-Sync/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0543-diameter-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -212,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/surafelbkassa/Leet-Sync/tree/master/0004-median-of-two-sorted-arrays) |
+## Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/surafelbkassa/Leet-Sync/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/surafelbkassa/Leet-Sync/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
