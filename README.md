@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/surafelbkassa/Leet-Sync/tree/master/0907-koko-eating-bananas) |
 | [1130-last-stone-weight-ii](https://github.com/surafelbkassa/Leet-Sync/tree/master/1130-last-stone-weight-ii) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/surafelbkassa/Leet-Sync/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/surafelbkassa/Leet-Sync/tree/master/0011-container-with-most-water) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/surafelbkassa/Leet-Sync/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Stack
 |  |
 | ------- |
