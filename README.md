@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surafelbkassa/Leet-Sync/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/surafelbkassa/Leet-Sync/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/surafelbkassa/Leet-Sync/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/surafelbkassa/Leet-Sync/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/surafelbkassa/Leet-Sync/tree/master/0141-linked-list-cycle) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/surafelbkassa/Leet-Sync/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/surafelbkassa/Leet-Sync/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/surafelbkassa/Leet-Sync/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/surafelbkassa/Leet-Sync/tree/master/0070-climbing-stairs) |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surafelbkassa/Leet-Sync/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/surafelbkassa/Leet-Sync/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/surafelbkassa/Leet-Sync/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/surafelbkassa/Leet-Sync/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/surafelbkassa/Leet-Sync/tree/master/0125-valid-palindrome) |
