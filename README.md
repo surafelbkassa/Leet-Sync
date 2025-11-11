@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/surafelbkassa/Leet-Sync/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1236-n-th-tribonacci-number) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/surafelbkassa/Leet-Sync/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1013-fibonacci-number) |
 | [1130-last-stone-weight-ii](https://github.com/surafelbkassa/Leet-Sync/tree/master/1130-last-stone-weight-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1236-n-th-tribonacci-number) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/surafelbkassa/Leet-Sync/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Recursion
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/surafelbkassa/Leet-Sync/tree/master/0062-unique-paths) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/surafelbkassa/Leet-Sync/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Matrix
 |  |
 | ------- |
