@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/surafelbkassa/Leet-Sync/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0416-partition-equal-subset-sum) |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
+| [0881-loud-and-rich](https://github.com/surafelbkassa/Leet-Sync/tree/master/0881-loud-and-rich) |
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/surafelbkassa/Leet-Sync/tree/master/0907-koko-eating-bananas) |
 | [1130-last-stone-weight-ii](https://github.com/surafelbkassa/Leet-Sync/tree/master/1130-last-stone-weight-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0332-reconstruct-itinerary](https://github.com/surafelbkassa/Leet-Sync/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0543-diameter-of-binary-tree) |
+| [0881-loud-and-rich](https://github.com/surafelbkassa/Leet-Sync/tree/master/0881-loud-and-rich) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -232,8 +234,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/surafelbkassa/Leet-Sync/tree/master/0332-reconstruct-itinerary) |
+| [0881-loud-and-rich](https://github.com/surafelbkassa/Leet-Sync/tree/master/0881-loud-and-rich) |
 ## Eulerian Circuit
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/surafelbkassa/Leet-Sync/tree/master/0332-reconstruct-itinerary) |
+## Topological Sort
+|  |
+| ------- |
+| [0881-loud-and-rich](https://github.com/surafelbkassa/Leet-Sync/tree/master/0881-loud-and-rich) |
 <!---LeetCode Topics End-->
