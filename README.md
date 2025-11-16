@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/surafelbkassa/Leet-Sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/surafelbkassa/Leet-Sync/tree/master/0424-longest-repeating-character-replacement) |
+| [0690-employee-importance](https://github.com/surafelbkassa/Leet-Sync/tree/master/0690-employee-importance) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/surafelbkassa/Leet-Sync/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Math
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/surafelbkassa/Leet-Sync/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0416-partition-equal-subset-sum) |
+| [0690-employee-importance](https://github.com/surafelbkassa/Leet-Sync/tree/master/0690-employee-importance) |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
 | [0881-loud-and-rich](https://github.com/surafelbkassa/Leet-Sync/tree/master/0881-loud-and-rich) |
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/surafelbkassa/Leet-Sync/tree/master/0322-coin-change) |
+| [0690-employee-importance](https://github.com/surafelbkassa/Leet-Sync/tree/master/0690-employee-importance) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Combinatorics
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0543-diameter-of-binary-tree) |
+| [0690-employee-importance](https://github.com/surafelbkassa/Leet-Sync/tree/master/0690-employee-importance) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0332-reconstruct-itinerary](https://github.com/surafelbkassa/Leet-Sync/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0543-diameter-of-binary-tree) |
+| [0690-employee-importance](https://github.com/surafelbkassa/Leet-Sync/tree/master/0690-employee-importance) |
 | [0881-loud-and-rich](https://github.com/surafelbkassa/Leet-Sync/tree/master/0881-loud-and-rich) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
