@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/surafelbkassa/Leet-Sync/tree/master/0155-min-stack) |
+| [0969-number-of-recent-calls](https://github.com/surafelbkassa/Leet-Sync/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0239-sliding-window-maximum) |
+| [0969-number-of-recent-calls](https://github.com/surafelbkassa/Leet-Sync/tree/master/0969-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/surafelbkassa/Leet-Sync/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/surafelbkassa/Leet-Sync/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
