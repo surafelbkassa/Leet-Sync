@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/surafelbkassa/Leet-Sync/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/surafelbkassa/Leet-Sync/tree/master/0943-sum-of-subarray-minimums) |
+| [1009-pancake-sorting](https://github.com/surafelbkassa/Leet-Sync/tree/master/1009-pancake-sorting) |
 | [1130-last-stone-weight-ii](https://github.com/surafelbkassa/Leet-Sync/tree/master/1130-last-stone-weight-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/surafelbkassa/Leet-Sync/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/surafelbkassa/Leet-Sync/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/surafelbkassa/Leet-Sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0242-valid-anagram) |
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
+| [1009-pancake-sorting](https://github.com/surafelbkassa/Leet-Sync/tree/master/1009-pancake-sorting) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,10 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/surafelbkassa/Leet-Sync/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/surafelbkassa/Leet-Sync/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surafelbkassa/Leet-Sync/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1009-pancake-sorting](https://github.com/surafelbkassa/Leet-Sync/tree/master/1009-pancake-sorting) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/surafelbkassa/Leet-Sync/tree/master/0011-container-with-most-water) |
+| [1009-pancake-sorting](https://github.com/surafelbkassa/Leet-Sync/tree/master/1009-pancake-sorting) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/surafelbkassa/Leet-Sync/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Stack
 |  |
