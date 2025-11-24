@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/surafelbkassa/Leet-Sync/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1137-n-th-tribonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1236-n-th-tribonacci-number) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/surafelbkassa/Leet-Sync/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## String
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/surafelbkassa/Leet-Sync/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1013-fibonacci-number) |
 | [1130-last-stone-weight-ii](https://github.com/surafelbkassa/Leet-Sync/tree/master/1130-last-stone-weight-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1137-n-th-tribonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1236-n-th-tribonacci-number) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/surafelbkassa/Leet-Sync/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Recursion
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/surafelbkassa/Leet-Sync/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1137-n-th-tribonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1236-n-th-tribonacci-number) |
 ## Array
 |  |
