@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/surafelbkassa/Leet-Sync/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/surafelbkassa/Leet-Sync/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/0509-fibonacci-number) |
 | [0943-sum-of-subarray-minimums](https://github.com/surafelbkassa/Leet-Sync/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1013-fibonacci-number) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/surafelbkassa/Leet-Sync/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0494-target-sum) |
 | [0690-employee-importance](https://github.com/surafelbkassa/Leet-Sync/tree/master/0690-employee-importance) |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
 | [0881-loud-and-rich](https://github.com/surafelbkassa/Leet-Sync/tree/master/0881-loud-and-rich) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0494-target-sum) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/surafelbkassa/Leet-Sync/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
