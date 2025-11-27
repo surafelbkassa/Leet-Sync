@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/surafelbkassa/Leet-Sync/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surafelbkassa/Leet-Sync/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/surafelbkassa/Leet-Sync/tree/master/0278-first-bad-version) |
 | [0907-koko-eating-bananas](https://github.com/surafelbkassa/Leet-Sync/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/surafelbkassa/Leet-Sync/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2665-minimum-time-to-repair-cars](https://github.com/surafelbkassa/Leet-Sync/tree/master/2665-minimum-time-to-repair-cars) |
@@ -301,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/surafelbkassa/Leet-Sync/tree/master/0969-number-of-recent-calls) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/surafelbkassa/Leet-Sync/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
