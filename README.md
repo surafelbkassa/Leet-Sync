@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surafelbkassa/Leet-Sync/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/surafelbkassa/Leet-Sync/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/surafelbkassa/Leet-Sync/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/surafelbkassa/Leet-Sync/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0239-sliding-window-maximum) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/surafelbkassa/Leet-Sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0242-valid-anagram) |
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0239-sliding-window-maximum) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/surafelbkassa/Leet-Sync/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Monotonic Queue
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/surafelbkassa/Leet-Sync/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 ## Graph
 |  |
 | ------- |
@@ -310,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/surafelbkassa/Leet-Sync/tree/master/0278-first-bad-version) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
