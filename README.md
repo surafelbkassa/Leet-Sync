@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/surafelbkassa/Leet-Sync/tree/master/0943-sum-of-subarray-minimums) |
 | [1009-pancake-sorting](https://github.com/surafelbkassa/Leet-Sync/tree/master/1009-pancake-sorting) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/surafelbkassa/Leet-Sync/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/surafelbkassa/Leet-Sync/tree/master/1046-last-stone-weight) |
 | [1130-last-stone-weight-ii](https://github.com/surafelbkassa/Leet-Sync/tree/master/1130-last-stone-weight-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/surafelbkassa/Leet-Sync/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/surafelbkassa/Leet-Sync/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0239-sliding-window-maximum) |
+| [1046-last-stone-weight](https://github.com/surafelbkassa/Leet-Sync/tree/master/1046-last-stone-weight) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/surafelbkassa/Leet-Sync/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Monotonic Queue
 |  |
