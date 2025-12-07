@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/surafelbkassa/Leet-Sync/tree/master/0322-coin-change) |
 | [0690-employee-importance](https://github.com/surafelbkassa/Leet-Sync/tree/master/0690-employee-importance) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/surafelbkassa/Leet-Sync/tree/master/1971-find-if-path-exists-in-graph) |
 ## Combinatorics
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/surafelbkassa/Leet-Sync/tree/master/0881-loud-and-rich) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/surafelbkassa/Leet-Sync/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/surafelbkassa/Leet-Sync/tree/master/0128-longest-consecutive-sequence) |
+| [1971-find-if-path-exists-in-graph](https://github.com/surafelbkassa/Leet-Sync/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sorting
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/surafelbkassa/Leet-Sync/tree/master/0332-reconstruct-itinerary) |
 | [0881-loud-and-rich](https://github.com/surafelbkassa/Leet-Sync/tree/master/0881-loud-and-rich) |
+| [1971-find-if-path-exists-in-graph](https://github.com/surafelbkassa/Leet-Sync/tree/master/1971-find-if-path-exists-in-graph) |
 ## Eulerian Circuit
 |  |
 | ------- |
