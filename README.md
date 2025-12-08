@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/surafelbkassa/Leet-Sync/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/surafelbkassa/Leet-Sync/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/surafelbkassa/Leet-Sync/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/surafelbkassa/Leet-Sync/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1137-n-th-tribonacci-number) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/surafelbkassa/Leet-Sync/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surafelbkassa/Leet-Sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/surafelbkassa/Leet-Sync/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/surafelbkassa/Leet-Sync/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surafelbkassa/Leet-Sync/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/surafelbkassa/Leet-Sync/tree/master/0198-house-robber) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/surafelbkassa/Leet-Sync/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/surafelbkassa/Leet-Sync/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/surafelbkassa/Leet-Sync/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/surafelbkassa/Leet-Sync/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
