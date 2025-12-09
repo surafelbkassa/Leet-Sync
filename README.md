@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/surafelbkassa/Leet-Sync/tree/master/0424-longest-repeating-character-replacement) |
 | [0690-employee-importance](https://github.com/surafelbkassa/Leet-Sync/tree/master/0690-employee-importance) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/surafelbkassa/Leet-Sync/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/surafelbkassa/Leet-Sync/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Math
 |  |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/surafelbkassa/Leet-Sync/tree/master/0155-min-stack) |
 | [0933-number-of-recent-calls](https://github.com/surafelbkassa/Leet-Sync/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/surafelbkassa/Leet-Sync/tree/master/0969-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/surafelbkassa/Leet-Sync/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/surafelbkassa/Leet-Sync/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/surafelbkassa/Leet-Sync/tree/master/0969-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/surafelbkassa/Leet-Sync/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/surafelbkassa/Leet-Sync/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/surafelbkassa/Leet-Sync/tree/master/0969-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/surafelbkassa/Leet-Sync/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Interactive
 |  |
 | ------- |
@@ -337,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/surafelbkassa/Leet-Sync/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
