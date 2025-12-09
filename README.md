@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/surafelbkassa/Leet-Sync/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/surafelbkassa/Leet-Sync/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/surafelbkassa/Leet-Sync/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/surafelbkassa/Leet-Sync/tree/master/0856-score-of-parentheses) |
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/surafelbkassa/Leet-Sync/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/surafelbkassa/Leet-Sync/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/surafelbkassa/Leet-Sync/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/surafelbkassa/Leet-Sync/tree/master/0969-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/surafelbkassa/Leet-Sync/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/surafelbkassa/Leet-Sync/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/surafelbkassa/Leet-Sync/tree/master/0933-number-of-recent-calls) |
 | [0969-number-of-recent-calls](https://github.com/surafelbkassa/Leet-Sync/tree/master/0969-number-of-recent-calls) |
