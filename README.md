@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/surafelbkassa/Leet-Sync/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/surafelbkassa/Leet-Sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/surafelbkassa/Leet-Sync/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/surafelbkassa/Leet-Sync/tree/master/0424-longest-repeating-character-replacement) |
 | [0690-employee-importance](https://github.com/surafelbkassa/Leet-Sync/tree/master/0690-employee-importance) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/surafelbkassa/Leet-Sync/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/surafelbkassa/Leet-Sync/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/surafelbkassa/Leet-Sync/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/surafelbkassa/Leet-Sync/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/surafelbkassa/Leet-Sync/tree/master/0424-longest-repeating-character-replacement) |
 | [0856-score-of-parentheses](https://github.com/surafelbkassa/Leet-Sync/tree/master/0856-score-of-parentheses) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/surafelbkassa/Leet-Sync/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -347,5 +349,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/surafelbkassa/Leet-Sync/tree/master/0383-ransom-note) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/surafelbkassa/Leet-Sync/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
