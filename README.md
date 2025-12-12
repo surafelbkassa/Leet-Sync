@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/surafelbkassa/Leet-Sync/tree/master/0690-employee-importance) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/surafelbkassa/Leet-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/surafelbkassa/Leet-Sync/tree/master/0875-koko-eating-bananas) |
 | [0881-loud-and-rich](https://github.com/surafelbkassa/Leet-Sync/tree/master/0881-loud-and-rich) |
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/surafelbkassa/Leet-Sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0242-valid-anagram) |
+| [0853-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
 | [1009-pancake-sorting](https://github.com/surafelbkassa/Leet-Sync/tree/master/1009-pancake-sorting) |
 ## Two Pointers
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/surafelbkassa/Leet-Sync/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/surafelbkassa/Leet-Sync/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/surafelbkassa/Leet-Sync/tree/master/0856-score-of-parentheses) |
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/surafelbkassa/Leet-Sync/tree/master/0943-sum-of-subarray-minimums) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/surafelbkassa/Leet-Sync/tree/master/0943-sum-of-subarray-minimums) |
 ## Prefix Sum
