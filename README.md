@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/surafelbkassa/Leet-Sync/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/surafelbkassa/Leet-Sync/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0084-largest-rectangle-in-histogram) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/surafelbkassa/Leet-Sync/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/surafelbkassa/Leet-Sync/tree/master/0074-search-a-2d-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0931-minimum-falling-path-sum) |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/surafelbkassa/Leet-Sync/tree/master/0383-ransom-note) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/surafelbkassa/Leet-Sync/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/surafelbkassa/Leet-Sync/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
