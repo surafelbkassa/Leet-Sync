@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/surafelbkassa/Leet-Sync/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/surafelbkassa/Leet-Sync/tree/master/0383-ransom-note) |
+| [0402-remove-k-digits](https://github.com/surafelbkassa/Leet-Sync/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/surafelbkassa/Leet-Sync/tree/master/0424-longest-repeating-character-replacement) |
 | [0856-score-of-parentheses](https://github.com/surafelbkassa/Leet-Sync/tree/master/0856-score-of-parentheses) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/surafelbkassa/Leet-Sync/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/surafelbkassa/Leet-Sync/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/surafelbkassa/Leet-Sync/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/surafelbkassa/Leet-Sync/tree/master/0402-remove-k-digits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/surafelbkassa/Leet-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1009-pancake-sorting](https://github.com/surafelbkassa/Leet-Sync/tree/master/1009-pancake-sorting) |
 | [1642-furthest-building-you-can-reach](https://github.com/surafelbkassa/Leet-Sync/tree/master/1642-furthest-building-you-can-reach) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/surafelbkassa/Leet-Sync/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/surafelbkassa/Leet-Sync/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/surafelbkassa/Leet-Sync/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/surafelbkassa/Leet-Sync/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/surafelbkassa/Leet-Sync/tree/master/0856-score-of-parentheses) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/surafelbkassa/Leet-Sync/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/surafelbkassa/Leet-Sync/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
