@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/surafelbkassa/Leet-Sync/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/surafelbkassa/Leet-Sync/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0416-partition-equal-subset-sum) |
+| [0456-132-pattern](https://github.com/surafelbkassa/Leet-Sync/tree/master/0456-132-pattern) |
 | [0494-target-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0494-target-sum) |
 | [0690-employee-importance](https://github.com/surafelbkassa/Leet-Sync/tree/master/0690-employee-importance) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/surafelbkassa/Leet-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surafelbkassa/Leet-Sync/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/surafelbkassa/Leet-Sync/tree/master/0278-first-bad-version) |
+| [0456-132-pattern](https://github.com/surafelbkassa/Leet-Sync/tree/master/0456-132-pattern) |
 | [0875-koko-eating-bananas](https://github.com/surafelbkassa/Leet-Sync/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/surafelbkassa/Leet-Sync/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/surafelbkassa/Leet-Sync/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/surafelbkassa/Leet-Sync/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/surafelbkassa/Leet-Sync/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/surafelbkassa/Leet-Sync/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/surafelbkassa/Leet-Sync/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/surafelbkassa/Leet-Sync/tree/master/0856-score-of-parentheses) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/surafelbkassa/Leet-Sync/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/surafelbkassa/Leet-Sync/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/surafelbkassa/Leet-Sync/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
@@ -373,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/surafelbkassa/Leet-Sync/tree/master/0054-spiral-matrix) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/surafelbkassa/Leet-Sync/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
