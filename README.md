@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/surafelbkassa/Leet-Sync/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/surafelbkassa/Leet-Sync/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/surafelbkassa/Leet-Sync/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/surafelbkassa/Leet-Sync/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surafelbkassa/Leet-Sync/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -360,11 +361,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/surafelbkassa/Leet-Sync/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0494-target-sum) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/surafelbkassa/Leet-Sync/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/surafelbkassa/Leet-Sync/tree/master/0078-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/surafelbkassa/Leet-Sync/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Data Stream
 |  |
