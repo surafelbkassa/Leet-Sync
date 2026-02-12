@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/surafelbkassa/Leet-Sync/tree/master/0040-combination-sum-ii) |
 | [0054-spiral-matrix](https://github.com/surafelbkassa/Leet-Sync/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/surafelbkassa/Leet-Sync/tree/master/0074-search-a-2d-matrix) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/surafelbkassa/Leet-Sync/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/surafelbkassa/Leet-Sync/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0494-target-sum) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/surafelbkassa/Leet-Sync/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
