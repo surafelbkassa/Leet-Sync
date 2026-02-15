@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/surafelbkassa/Leet-Sync/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/surafelbkassa/Leet-Sync/tree/master/0943-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/surafelbkassa/Leet-Sync/tree/master/0994-rotting-oranges) |
 | [1009-pancake-sorting](https://github.com/surafelbkassa/Leet-Sync/tree/master/1009-pancake-sorting) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/surafelbkassa/Leet-Sync/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/surafelbkassa/Leet-Sync/tree/master/1046-last-stone-weight) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/surafelbkassa/Leet-Sync/tree/master/0322-coin-change) |
 | [0690-employee-importance](https://github.com/surafelbkassa/Leet-Sync/tree/master/0690-employee-importance) |
+| [0994-rotting-oranges](https://github.com/surafelbkassa/Leet-Sync/tree/master/0994-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/surafelbkassa/Leet-Sync/tree/master/1971-find-if-path-exists-in-graph) |
 ## Combinatorics
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/surafelbkassa/Leet-Sync/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/surafelbkassa/Leet-Sync/tree/master/0200-number-of-islands) |
 | [0931-minimum-falling-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/surafelbkassa/Leet-Sync/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
 | ------- |
