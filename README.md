@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/surafelbkassa/Leet-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0746-min-cost-climbing-stairs](https://github.com/surafelbkassa/Leet-Sync/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/surafelbkassa/Leet-Sync/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/surafelbkassa/Leet-Sync/tree/master/0943-sum-of-subarray-minimums) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/surafelbkassa/Leet-Sync/tree/master/0690-employee-importance) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/surafelbkassa/Leet-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/surafelbkassa/Leet-Sync/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/surafelbkassa/Leet-Sync/tree/master/0875-koko-eating-bananas) |
 | [0881-loud-and-rich](https://github.com/surafelbkassa/Leet-Sync/tree/master/0881-loud-and-rich) |
