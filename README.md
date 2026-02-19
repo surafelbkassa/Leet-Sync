@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/surafelbkassa/Leet-Sync/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/surafelbkassa/Leet-Sync/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/surafelbkassa/Leet-Sync/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1137-n-th-tribonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/surafelbkassa/Leet-Sync/tree/master/1236-n-th-tribonacci-number) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/surafelbkassa/Leet-Sync/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/surafelbkassa/Leet-Sync/tree/master/0943-sum-of-subarray-minimums) |
+| [0973-k-closest-points-to-origin](https://github.com/surafelbkassa/Leet-Sync/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/surafelbkassa/Leet-Sync/tree/master/0994-rotting-oranges) |
 | [1009-pancake-sorting](https://github.com/surafelbkassa/Leet-Sync/tree/master/1009-pancake-sorting) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/surafelbkassa/Leet-Sync/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0242-valid-anagram) |
 | [0853-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/surafelbkassa/Leet-Sync/tree/master/0973-k-closest-points-to-origin) |
 | [1009-pancake-sorting](https://github.com/surafelbkassa/Leet-Sync/tree/master/1009-pancake-sorting) |
 ## Two Pointers
 |  |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0239-sliding-window-maximum) |
+| [0973-k-closest-points-to-origin](https://github.com/surafelbkassa/Leet-Sync/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/surafelbkassa/Leet-Sync/tree/master/1046-last-stone-weight) |
 | [1642-furthest-building-you-can-reach](https://github.com/surafelbkassa/Leet-Sync/tree/master/1642-furthest-building-you-can-reach) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/surafelbkassa/Leet-Sync/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/surafelbkassa/Leet-Sync/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/surafelbkassa/Leet-Sync/tree/master/0973-k-closest-points-to-origin) |
 ## Graph
 |  |
 | ------- |
@@ -396,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/surafelbkassa/Leet-Sync/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -413,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/surafelbkassa/Leet-Sync/tree/master/0200-number-of-islands) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/surafelbkassa/Leet-Sync/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
