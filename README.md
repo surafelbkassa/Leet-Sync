@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/surafelbkassa/Leet-Sync/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/surafelbkassa/Leet-Sync/tree/master/0424-longest-repeating-character-replacement) |
 | [0690-employee-importance](https://github.com/surafelbkassa/Leet-Sync/tree/master/0690-employee-importance) |
+| [0720-longest-word-in-dictionary](https://github.com/surafelbkassa/Leet-Sync/tree/master/0720-longest-word-in-dictionary) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/surafelbkassa/Leet-Sync/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/surafelbkassa/Leet-Sync/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Math
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/surafelbkassa/Leet-Sync/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/surafelbkassa/Leet-Sync/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/surafelbkassa/Leet-Sync/tree/master/0424-longest-repeating-character-replacement) |
+| [0720-longest-word-in-dictionary](https://github.com/surafelbkassa/Leet-Sync/tree/master/0720-longest-word-in-dictionary) |
 | [0856-score-of-parentheses](https://github.com/surafelbkassa/Leet-Sync/tree/master/0856-score-of-parentheses) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/surafelbkassa/Leet-Sync/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/surafelbkassa/Leet-Sync/tree/master/0494-target-sum) |
 | [0690-employee-importance](https://github.com/surafelbkassa/Leet-Sync/tree/master/0690-employee-importance) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/surafelbkassa/Leet-Sync/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0720-longest-word-in-dictionary](https://github.com/surafelbkassa/Leet-Sync/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/surafelbkassa/Leet-Sync/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/surafelbkassa/Leet-Sync/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0853-car-fleet) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/surafelbkassa/Leet-Sync/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/surafelbkassa/Leet-Sync/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/surafelbkassa/Leet-Sync/tree/master/0242-valid-anagram) |
+| [0720-longest-word-in-dictionary](https://github.com/surafelbkassa/Leet-Sync/tree/master/0720-longest-word-in-dictionary) |
 | [0853-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/surafelbkassa/Leet-Sync/tree/master/0973-k-closest-points-to-origin) |
@@ -437,4 +441,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/surafelbkassa/Leet-Sync/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0208-implement-trie-prefix-tree) |
+| [0720-longest-word-in-dictionary](https://github.com/surafelbkassa/Leet-Sync/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
