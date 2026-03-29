@@ -442,4 +442,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/surafelbkassa/Leet-Sync/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/surafelbkassa/Leet-Sync/tree/master/0208-implement-trie-prefix-tree) |
 | [0720-longest-word-in-dictionary](https://github.com/surafelbkassa/Leet-Sync/tree/master/0720-longest-word-in-dictionary) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/surafelbkassa/Leet-Sync/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
