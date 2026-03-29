@@ -3,29 +3,26 @@ class Solution:
         #You are given a graph
         #it is one diractional and under numCourses return true
         #else return false [ then <- first]
-        graph = {i : [] for i in range(numCourses)}
-        for a,b in prerequisites:
-            graph[a].append(b)
-        """
-        graph = {
-            0:[],
-            1:[0]
-        }
-        """
-        visiting = set()
+        Map = defaultdict(list)
+        for a,b in prerequisites :
+            Map[a].append(b)
+        state = [0]*numCourses
         def dfs(course):
-            if course in visiting:
+            if state[course] == 1:
                 return False
-            if graph[course] == []:
+            if state[course] == 2:
                 return True
-            visiting.add(course)
-            for b in graph[course]:
-                if not dfs(b):
+            state[course] = 1
+            for neighbour in Map[course]:
+                if not dfs(neighbour):
                     return False
-            visiting.remove(course)
-            graph[course] = []
+            state[course] = 2
             return True
+            
         for i in range(numCourses):
             if not dfs(i):
                 return False
         return True
+
+
+        
