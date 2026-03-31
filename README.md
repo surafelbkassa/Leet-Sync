@@ -432,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/surafelbkassa/Leet-Sync/tree/master/0200-number-of-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/surafelbkassa/Leet-Sync/tree/master/1971-find-if-path-exists-in-graph) |
 ## Geometry
 |  |
 | ------- |
@@ -446,4 +447,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/surafelbkassa/Leet-Sync/tree/master/0207-course-schedule) |
+| [1971-find-if-path-exists-in-graph](https://github.com/surafelbkassa/Leet-Sync/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
