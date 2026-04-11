@@ -448,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/surafelbkassa/Leet-Sync/tree/master/0207-course-schedule) |
 | [1971-find-if-path-exists-in-graph](https://github.com/surafelbkassa/Leet-Sync/tree/master/1971-find-if-path-exists-in-graph) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/surafelbkassa/Leet-Sync/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
