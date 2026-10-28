@@ -1,24 +1,18 @@
 class Solution:
-    def searchRange(self, nums: List[int], target: int) -> List[int]:     
-        left = self.binary(nums,target,True)  
-        right =self.binary(nums,target,False)
-        return [left, right]
-    def binary(self,nums,target,leftbais):  
-        l = 0
-        r = len(nums) - 1
-        i = -1
-        while l <= r:
-            mid = (l + r) // 2
-            if nums[mid] < target:
-                l = mid + 1
-            elif nums[mid] > target:
-                r = mid - 1
-            else:
-                i = mid
-                #looking for the most left
-                if leftbais:
-                    r = mid - 1
-                #looking for the most right 
+    def searchRange(self, nums: list[int], target: int) -> list[int]:
+        def lower_bound(t):
+            n = len(nums)
+            l,r = 0,n
+            while l < r:
+                mid = (l + r) // 2
+                if nums[mid] < t:
+                    l = mid +1
                 else:
-                    l = mid + 1
-        return i
+                    r = mid  
+            return l
+        left = lower_bound(target) 
+        right = lower_bound(target+1) - 1
+        if left >= len(nums) or nums[left] != target: return [-1,-1]
+        return [left,right]
+        
+        
