@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/surafelbkassa/Leet-Sync/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1642-furthest-building-you-can-reach](https://github.com/surafelbkassa/Leet-Sync/tree/master/1642-furthest-building-you-can-reach) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/surafelbkassa/Leet-Sync/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/surafelbkassa/Leet-Sync/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2665-minimum-time-to-repair-cars](https://github.com/surafelbkassa/Leet-Sync/tree/master/2665-minimum-time-to-repair-cars) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/surafelbkassa/Leet-Sync/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 ## Breadth-First Search
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/surafelbkassa/Leet-Sync/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/surafelbkassa/Leet-Sync/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/surafelbkassa/Leet-Sync/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/surafelbkassa/Leet-Sync/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2665-minimum-time-to-repair-cars](https://github.com/surafelbkassa/Leet-Sync/tree/master/2665-minimum-time-to-repair-cars) |
 ## Tree
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/surafelbkassa/Leet-Sync/tree/master/0883-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/surafelbkassa/Leet-Sync/tree/master/0973-k-closest-points-to-origin) |
 | [1009-pancake-sorting](https://github.com/surafelbkassa/Leet-Sync/tree/master/1009-pancake-sorting) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/surafelbkassa/Leet-Sync/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/surafelbkassa/Leet-Sync/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surafelbkassa/Leet-Sync/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1009-pancake-sorting](https://github.com/surafelbkassa/Leet-Sync/tree/master/1009-pancake-sorting) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/surafelbkassa/Leet-Sync/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
 | ------- |
