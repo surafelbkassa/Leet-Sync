@@ -1,14 +1,12 @@
-class Solution(object):
-    def twoSum(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: List[int]
-        """
-        num_map={}
-        for i,num in enumerate(nums):
-            complement = target - nums[i]
-            if complement in num_map:
-                return [num_map[target - nums[i]],i]
-            num_map[num] = i
-       
+class Solution:
+    def twoSum(self, nums: list[int], target: int) -> list[int]:
+        Map = {}
+        n = len(nums) 
+        for i in range(n):
+            compliment = target - nums[i]
+            if compliment in Map:
+                return [i,Map[compliment]]
+            else:
+                Map[nums[i]] = i
+        return []
+        
